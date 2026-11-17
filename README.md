@@ -41,9 +41,11 @@ A Java database practice project focused on JDBC connectivity, PostgreSQL integr
 
 A Python project simulating an online food store, demonstrating programming fundamentals and application logic.
 
-**3. AI-Powered Dengue Prediction System**
+**3. AI-Powered Dengue Prediction System (Python, Flet & Machine Learning)**
 
-An academic project involving machine learning and clinical data analysis to predict dengue fever using patient health indicators.
+An academic project involving machine learning, feature selection, and clinical data analysis to predict dengue fever using patient health indicators. Includes a desktop application integrating a trained Random Forest model.
+
+
 
 ### Currently Learning
 
